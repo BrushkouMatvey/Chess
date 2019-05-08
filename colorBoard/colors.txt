@@ -1,0 +1,2 @@
+dark(blue) - 5f8fe1 (R = 95, G = 143, B = 255)
+light(yellow) - d7f5c7(R = 215 , G = 245, B = 199)
